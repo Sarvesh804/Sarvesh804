@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Sarvesh!
 
-Welcome to my GitHub profile! I'm a passionate **Frontend Engineer** and **Full-Stack Developer** with a deep interest in **AI** and **web development**. I'm currently focused on building robust applications using modern JavaScript frameworks and integrating machine learning to solve real-world problems.
+Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** with a deep interest in **AI** and **web development**. I'm currently focused on building robust applications using modern JavaScript frameworks and integrating machine learning to solve real-world problems.
 
 ---
 
@@ -9,7 +9,6 @@ Welcome to my GitHub profile! I'm a passionate **Frontend Engineer** and **Full-
 - 🔭 I’m currently working on: **PlanMyTour** (a chatbot-enabled travel app) and a **React Admin Dashboard** for managers and employees.
 - 🌱 I’m learning advanced **Next.js** concepts and **socket programming** to deepen my knowledge of backend development.
 - 👯 I’m looking to collaborate on **innovative AI and ML projects**, especially in **sustainable technology**.
-- 💼 I’ve recently applied for roles at **Goldman Sachs** and **Peakflo** (YC-backed startup).
 - 🏆 Achievements:  
    - **Lead Developer** of the E-Summit 24 website for Udyam E-Cell.
    - Developed a **Fertilizer Prediction App** using Flutter and Flask, selected for **Smart India Hackathon (SIH)**.
@@ -19,9 +18,8 @@ Welcome to my GitHub profile! I'm a passionate **Frontend Engineer** and **Full-
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarvesh) 
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/sarvesh)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sarvesh@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarvesh-bajaj/) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sarveshbajaj804@gmail.com)
 
 ---
 
@@ -40,22 +38,22 @@ Welcome to my GitHub profile! I'm a passionate **Frontend Engineer** and **Full-
 
 ### 📈 GitHub Stats
 
-![Sarvesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarvesh&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarvesh&layout=compact&theme=radical)
+![Sarvesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarvesh804&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarvesh804&layout=compact&theme=radical)
 
 ---
 
 ### 🔥 Featured Projects
 
-#### [PlanMyTour](https://github.com/sarvesh/PlanMyTour)
+#### [PlanMyTour](https://github.com/Sarvesh804/PlanMyTour)
 An intelligent travel guide with a chatbot built using RAG and Next.js, providing users with travel recommendations and in-depth details on Indian cities.  
 *Technologies: Next.js, MongoDB, OpenAI, LangChain*
 
-#### [E-Summit 24 Website](https://github.com/sarvesh/ESummit24)
+#### [E-Summit 24 Website](https://github.com/Sarvesh804/ESummit24)
 Lead developer for E-Summit 24, an event website with a streamlined design and core information on Udyam's annual event.  
 *Technologies: React, TailwindCSS, Firebase*
 
-#### [Fertilizer Prediction App](https://github.com/sarvesh/FertilizerPredictionApp)
+#### [Fertilizer Prediction App]
 Smart India Hackathon-selected project that suggests sustainable fertilizers based on soil health, using machine learning and Python.  
 *Technologies: Flutter, Flask, MongoDB, Python*
 
