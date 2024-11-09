@@ -16,6 +16,15 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** with a d
 
 ---
 
+### 🔥 My Highlights
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sarvesh804&label=Profile%20Views&color=0e75b6&style=flat" alt="sarvesh-profile-views" />
+  <img src="https://img.shields.io/github/followers/Sarvesh804?label=Followers&style=social" alt="sarvesh-github-followers" />
+</p>
+
+---
+
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarvesh-bajaj/) 
@@ -33,6 +42,7 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** with a d
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-FF6B6B?style=flat&logo=langchain&logoColor=white)
 
 ---
 
