@@ -1,27 +1,68 @@
-# Hi there 👋, I'm Sarvesh!
+# Welcome to My Digital Kingdom! 👨‍💻🚀
 
-Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** with a deep interest in **AI** and **web development**. I'm currently focused on building robust applications using modern JavaScript frameworks and integrating machine learning to solve real-world problems.
+![Profile Views](https://komarev.com/ghpvc/?username=Sarvesh804&label=Profile%20Views&color=brightgreen&style=flat)
+![GitHub Followers](https://img.shields.io/github/followers/Sarvesh804?label=Followers&style=social)
 
----
-
-### 👨‍💻 About Me
-
-- 🔭 I’m currently working on: **PlanMyTour** (a chatbot-enabled travel app) and a **React Admin Dashboard** for managers and employees.
-- 🌱 I’m learning advanced **Next.js** concepts and **socket programming** to deepen my knowledge of backend development.
-- 👯 I’m looking to collaborate on **innovative AI and ML projects**, especially in **sustainable technology**.
-- 🏆 Achievements:  
-   - **Lead Developer** of the E-Summit 24 website for Udyam E-Cell.
-   - Developed a **Fertilizer Prediction App** using Flutter and Flask, selected for **Smart India Hackathon (SIH)**.
-   - Built a RAG (Retrieval-Augmented Generation) **chatbot** in the **PlanMyTour** project.
+👋 Hi there! I'm Sarvesh, a passionate **Full-Stack Developer** with a knack for **AI** and cutting-edge web technologies. My GitHub is where innovation meets code. Dive in to explore my projects, contributions, and more!
 
 ---
 
-### 🔥 My Highlights
+### 🌟 Top Repositories
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sarvesh804&label=Profile%20Views&color=0e75b6&style=flat" alt="sarvesh-profile-views" />
-  <img src="https://img.shields.io/github/followers/Sarvesh804?label=Followers&style=social" alt="sarvesh-github-followers" />
-</p>
+#### [Ai Call Analysis](https://github.com/Sarvesh804/Ai_Call_Analyser)
+An automated sentimental analyser, with a robust web-dashboard which could be used by top authorities to track performance of employees.
+*Technologies: TypeScript, Next.js, TailwindCSS*
+
+#### [TradeGuard](https://github.com/Sarvesh804/TradeGuard)
+A comprehensive tool for monitoring and securing your trading activities, ensuring you stay ahead in the market.
+*Technologies: Python, Django, REST API*
+
+<!--#### [Pinewheel](https://github.com/Sarvesh804/pinewheel)
+An innovative project aimed at revolutionizing the way we interact with and manage our data.
+*Technologies: TypeScript, React, Node.js*-->
+
+---
+
+### 🚀 Tech Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</div>
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sarvesh804&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarvesh804&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarvesh804&layout=compact&theme=radical" alt="Top Languages" />
+  <br>
+</div>
+
+---
+
+### 🌟 Open Source Contributions
+
+- **[fix: Build completed with no type errors](https://github.com/calcom/cal.com/pull/20075)** - Resolved type matching errors in the build process.
+- **[SpeakerCard images](https://github.com/nikhilmishra1710/tf24/pull/42)** - Added images for the SpeakerCard component.
+- **[Added gradient effects](https://github.com/nikhilmishra1710/tf24/pull/37)** - Enhanced UI with gradient effects.
+- **[Fixed teampage and eventcard](https://github.com/nikhilmishra1710/tf24/pull/35)** - Improved team page and event card layout.
+- **[Added TeamPage](https://github.com/nikhilmishra1710/tf24/pull/25)** - Introduced a new team page for the project.
+- **[Scaled eventcards on hover](https://github.com/nikhilmishra1710/tf24/pull/21)** - Implemented hover effects for event cards.
+- **[Added speakers component](https://github.com/nikhilmishra1710/tf24/pull/11)** - Created a new component for showcasing speakers.
+- **[Fixed EventPage](https://github.com/nikhilmishra1710/tf24/pull/2)** - Fixed layout issues on the event page.
 
 ---
 
@@ -32,43 +73,6 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** with a d
 
 ---
 
-### 🚀 Tech Stack
+### 🦁 Behold My Portfolio: [Beastfolio](https://github.com/Sarvesh804/Beastfolio)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-FF6B6B?style=flat&logo=langchain&logoColor=white)
-
----
-
-### 📈 GitHub Stats
-
-![Sarvesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarvesh804&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarvesh804&layout=compact&theme=radical)
-
----
-
-### 🔥 Featured Projects
-
-#### [PlanMyTour](https://github.com/Sarvesh804/PlanMyTour)
-An intelligent travel guide with a chatbot built using RAG and Next.js, providing users with travel recommendations and in-depth details on Indian cities.  
-*Technologies: Next.js, MongoDB, OpenAI, LangChain*
-
-#### [E-Summit 24 Website](https://github.com/Sarvesh804/ESummit24)
-Lead developer for E-Summit 24, an event website with a streamlined design and core information on Udyam's annual event.  
-*Technologies: React, TailwindCSS, Firebase*
-
-#### [Fertilizer Prediction App]
-Smart India Hackathon-selected project that suggests sustainable fertilizers based on soil health, using machine learning and Python.  
-*Technologies: Flutter, Flask, MongoDB, Python*
-
----
-
-### 📈 Let's Connect!
-I’m always open to discussions on technology, especially around **web development, AI,** and **sustainable tech.** Let's build something amazing together!
-
+Explore my personal portfolio, **Beastfolio**, to witness the full extent of my skills, projects, and achievements. Let's connect and create something extraordinary together!
